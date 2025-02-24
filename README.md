@@ -12,3 +12,11 @@ Learning to build an AI agent from scratch
 4. Agent vs Assistant: Not all assistants are agents.
 5. Agent is a thing which can run on a loop and can have access to the tools
 6. Assistant is like a LLM or chat-interface, no access to outer world.
+
+## LLM
+1. Model: A set of statistics or set of some trained system and have probablities for each labelled data (trained data)
+2. LLM: A model that is very good in predicting the next thing coming in a sentence
+3. Transformer: Helps model to maintain the context of the query currently going on
+4. Tokens: Every 3-4 characters are grouped as one token. Model break letter/word down into numerical way into - vectors and embeddings.
+5. 
+
