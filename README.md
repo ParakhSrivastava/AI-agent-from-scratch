@@ -7,3 +7,8 @@ Learning to build an AI agent from scratch
 
 ## Introduction
 1. Course notes are provided above
+2. What an agent can do: have history of conversations and reply, generate images, solve real-world problems, etc.
+3. It is non-deterministic in nature: same output is not guaranteed with same input
+4. Agent vs Assistant: Not all assistants are agents.
+5. Agent is a thing which can run on a loop and can have access to the tools
+6. Assistant is like a LLM or chat-interface, no access to outer world.
