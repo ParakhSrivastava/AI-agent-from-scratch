@@ -18,5 +18,6 @@ Learning to build an AI agent from scratch
 2. LLM: A model that is very good in predicting the next thing coming in a sentence
 3. Transformer: Helps model to maintain the context of the query currently going on
 4. Tokens: Every 3-4 characters are grouped as one token. Model break letter/word down into numerical way into - vectors and embeddings.
-5. 
+5. Size of token changes according to the models, and maximum number of tokens one can give is termed as **Context window size**
+6. 
 
