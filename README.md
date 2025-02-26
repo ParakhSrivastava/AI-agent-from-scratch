@@ -19,5 +19,6 @@ Learning to build an AI agent from scratch
 3. Transformer: Helps model to maintain the context of the query currently going on
 4. Tokens: Every 3-4 characters are grouped as one token. Model break letter/word down into numerical way into - vectors and embeddings.
 5. Size of token changes according to the models, and maximum number of tokens one can give is termed as **Context window size**
-6. 
-
+6. Types: **Base models** (Claude, Llama, GPT, etc.) have raw completion capabilities, **Instruction-tuned models** (Chat GPT, Claude, etc.) better at following instructions and maintaining conversations, **Domain-specific models** (CodeLlama, med-palm, etc.) specialized knowledge and capabilities.
+7. Weights in AI model: they are like the thought process going on in the AI (brain), without the weights the AI models is useless
+8. 
